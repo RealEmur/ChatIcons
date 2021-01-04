@@ -1,0 +1,14 @@
+"Phrases"
+{
+	//Do not use any colors except default, green and red. This plugin is not using any colors include. So I'm replacing these things with color codes in the plugin.
+	"icons_enabled"
+	{
+		"en"			"{default}You succesfully {green}enabled {default}chat icons."
+		"tr"			"{default}Chat ikonları başarıyla {green}etkinleştirildi{default}."
+	}
+	"icons_disabled"
+	{
+		"en"			"{default}You succesfully {red}disabled {default}chat icons."
+		"tr"			"{default}Chat ikonları başarıyla {red}kapatıldı."
+	}
+}
