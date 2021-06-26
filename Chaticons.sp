@@ -81,7 +81,7 @@ public Action OnClientSayCommand(int client, const char[] command, const char[] 
 		//I thought checking the situation with a bool is a good idea. We don't need to waste a good sentence.
 		bool contains = false;
 		
-		//Because of OnClientSayCommand paramatres we cant replace sArgs so I had to copy it
+		//Because of OnClientSayCommand parameters we cant replace sArgs so I had to copy it
 		char message[255];
 		strcopy(message, sizeof(message), sArgs);
 		
